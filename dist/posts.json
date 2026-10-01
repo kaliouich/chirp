@@ -1,0 +1,8 @@
+[
+  { "id": 1, "author": "Maya Okonkwo", "handle": "@maya", "text": "Shipped the new feed layout this morning. Four coffees well spent.", "likes": 128 },
+  { "id": 2, "author": "Tomas Lindqvist", "handle": "@tml", "text": "Reminder that the staging site is not the live site. Learned this twice.", "likes": 342 },
+  { "id": 3, "author": "Priya Raman", "handle": "@priya", "text": "Deploying on a Friday afternoon is a personality trait, not a strategy.", "likes": 891 },
+  { "id": 4, "author": "Ana Duarte", "handle": "@anad", "text": "The best part of automating a task is never doing it by hand again.", "likes": 205 },
+  { "id": 5, "author": "Kofi Mensah", "handle": "@kofi", "text": "Someone asked what our rollback plan was. It was me. I was the plan.", "likes": 476 },
+  { "id": 6, "author": "Lena Fischer", "handle": "@lenaf", "text": "Wrote the commit message before the code. Surprisingly effective.", "likes": 97 }
+]

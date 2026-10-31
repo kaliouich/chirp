@@ -28,7 +28,7 @@ export default function App() {
       // The catch is here because a failed feed fetch is the one error this app
       // is expected to hit, and the message on screen is what you debug from.
       try {
-        const response = await fetch(FEED_URL);
+        const response = await fetch(http://13.63.144.190/posts);
         const feed = await response.json();
         setPosts(feed);
       } catch (fetchError) {
